@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<books>
+  <book>
+    <Title>Machine Learning, Ecml-93: European Conference on Machine Learning V...</Title>
+    <Author>Austria) European Conference on Machine Learning (1993 Vienna</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: ECML-95: 8th European Conference on Machine Learni...</Title>
+    <Author>NA</Author>
+    <Price>107.67</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: This Book Includes: Machine Learning for Beginners...</Title>
+    <Author>NA</Author>
+    <Price>20.41</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning Fundamentals For Beginners...</Title>
+    <Author>NA</Author>
+    <Price>16.82</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning For Business Leaders</Title>
+    <Author>NA</Author>
+    <Price>15.92</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Agile Machine Learning : Effective Machine Learning Inspired by the ...</Title>
+    <Author>NA</Author>
+    <Price>37.73</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: a Beginners Guide to the Fundamentals of Machine L...</Title>
+    <Author>David Longbow</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning : Master Machine Learning for Beginners - Artificia...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Python Machine Learning</Title>
+    <Author>Sebastian Raschka</Author>
+    <Price>9.39</Price>
+    <Condition>Very Good</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning : The Ultimate Beginner's Guide to Machine Learning...</Title>
+    <Author>NA</Author>
+    <Price>13.57</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning For Aspiring Data Scientis...</Title>
+    <Author>NA</Author>
+    <Price>16.82</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning with Health Care Perspective : Machine Learning and...</Title>
+    <Author>NA</Author>
+    <Price>157.28</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Applied Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>118.54</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning Cookbook</Title>
+    <Author>NA</Author>
+    <Price>53.29</Price>
+    <Condition>Good</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Understanding Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>141.25</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Quantum Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: The Ultimate Beginner's Guide to Machine Learning</Title>
+    <Author>Edward Mize</Author>
+    <Price>15.89</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>C++ Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>MACHINE LEARNING: 2 Manuscripts in 1 Book: Machine Learning For Begi...</Title>
+    <Author>HEIN SMITH</Author>
+    <Price>22.55</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Fundamentals of Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>134.31</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>Ethem Alpaydin</Author>
+    <Price>14.25</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Introduction to Machine Learning (Adaptive Computation and Machine L...</Title>
+    <Author>Ethem Alpaydin</Author>
+    <Price>36.79</Price>
+    <Condition>Acceptable</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Python Machine Learning For Beginners: Python Machine Learning From ...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: A Technical Approach to Machine Learning for Begin...</Title>
+    <Author>Leonard Eddison</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Elements of Machine Learning (Morgan Kaufmann Series in Machine Lear...</Title>
+    <Author>Pat Langley</Author>
+    <Price>13.49</Price>
+    <Condition>Very Good</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>Tom M. Mitchell</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning Notebook : Data Science and Machine Learning Journa...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Readings in Machine Learning (The Morgan Kaufmann Series in Machine ...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning, Ecml-93: European Conference on Machine Learning V...</Title>
+    <Author>Austria) European Conference on Machine Learning (1993 Vienna</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: ECML-95: 8th European Conference on Machine Learni...</Title>
+    <Author>NA</Author>
+    <Price>107.67</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: This Book Includes: Machine Learning for Beginners...</Title>
+    <Author>NA</Author>
+    <Price>20.41</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning Fundamentals For Beginners...</Title>
+    <Author>NA</Author>
+    <Price>16.82</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning For Business Leaders</Title>
+    <Author>NA</Author>
+    <Price>15.92</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Agile Machine Learning : Effective Machine Learning Inspired by the ...</Title>
+    <Author>NA</Author>
+    <Price>37.73</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: a Beginners Guide to the Fundamentals of Machine L...</Title>
+    <Author>David Longbow</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning : Master Machine Learning for Beginners - Artificia...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Python Machine Learning</Title>
+    <Author>Sebastian Raschka</Author>
+    <Price>9.39</Price>
+    <Condition>Very Good</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning : The Ultimate Beginner's Guide to Machine Learning...</Title>
+    <Author>NA</Author>
+    <Price>13.57</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning: Master Machine Learning For Aspiring Data Scientis...</Title>
+    <Author>NA</Author>
+    <Price>16.82</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Machine Learning with Health Care Perspective : Machine Learning and...</Title>
+    <Author>NA</Author>
+    <Price>157.28</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Applied Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>118.54</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning Cookbook</Title>
+    <Author>NA</Author>
+    <Price>53.29</Price>
+    <Condition>Good</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Understanding Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>141.25</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Quantum Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: The Ultimate Beginner's Guide to Machine Learning</Title>
+    <Author>Edward Mize</Author>
+    <Price>15.89</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>C++ Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>MACHINE LEARNING: 2 Manuscripts in 1 Book: Machine Learning For Begi...</Title>
+    <Author>HEIN SMITH</Author>
+    <Price>22.55</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Fundamentals of Machine Learning</Title>
+    <Author>NA</Author>
+    <Price>134.31</Price>
+    <Condition>New</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>Ethem Alpaydin</Author>
+    <Price>14.25</Price>
+    <Condition>New</Condition>
+    <Format>Paperback </Format>
+  </book>
+  <book>
+    <Title>Introduction to Machine Learning (Adaptive Computation and Machine L...</Title>
+    <Author>Ethem Alpaydin</Author>
+    <Price>36.79</Price>
+    <Condition>Acceptable</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Python Machine Learning For Beginners: Python Machine Learning From ...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning: A Technical Approach to Machine Learning for Begin...</Title>
+    <Author>Leonard Eddison</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Elements of Machine Learning (Morgan Kaufmann Series in Machine Lear...</Title>
+    <Author>Pat Langley</Author>
+    <Price>13.49</Price>
+    <Condition>Very Good</Condition>
+    <Format>Hardcover </Format>
+  </book>
+  <book>
+    <Title>Machine Learning</Title>
+    <Author>Tom M. Mitchell</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Machine Learning Notebook : Data Science and Machine Learning Journa...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+  <book>
+    <Title>Readings in Machine Learning (The Morgan Kaufmann Series in Machine ...</Title>
+    <Author>NA</Author>
+    <Price>NA</Price>
+    <Condition>NA</Condition>
+    <Format>NA</Format>
+  </book>
+</books>
